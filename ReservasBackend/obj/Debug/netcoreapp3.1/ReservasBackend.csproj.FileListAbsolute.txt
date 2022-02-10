@@ -1,0 +1,12 @@
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\bin\Debug\netcoreapp3.1\ReservasBackend.deps.json
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\bin\Debug\netcoreapp3.1\ReservasBackend.dll
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\obj\Debug\netcoreapp3.1\ReservasBackend.csprojAssemblyReference.cache
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\obj\Debug\netcoreapp3.1\ReservasBackend.AssemblyInfoInputs.cache
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\obj\Debug\netcoreapp3.1\ReservasBackend.AssemblyInfo.cs
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\bin\Debug\netcoreapp3.1\ReservasBackend.runtimeconfig.json
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\bin\Debug\netcoreapp3.1\ReservasBackend.runtimeconfig.dev.json
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\bin\Debug\netcoreapp3.1\ReservasBackend.pdb
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\obj\Debug\netcoreapp3.1\ReservasBackend.dll
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\obj\Debug\netcoreapp3.1\ReservasBackend.pdb
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\obj\Debug\netcoreapp3.1\ReservasBackend.genruntimeconfig.cache
+C:\Users\John R\source\repos\ReservasPrueba\ReservasBackend\obj\Debug\netcoreapp3.1\ReservasBackend.csproj.CoreCompileInputs.cache
